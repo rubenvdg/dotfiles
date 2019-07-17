@@ -1,0 +1,7 @@
+{
+    "workbench.sideBar.location": "left",
+    "autoDocstring.docstringFormat": "numpy",
+    "editor.scrollBeyondLastLine": false,
+    "workbench.tree.indent": 10
+}
+
